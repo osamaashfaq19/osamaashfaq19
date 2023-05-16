@@ -1,5 +1,17 @@
-# 💫 About Me:
-I am currently working on Ruby on Rails, Laravel, Codeigniter, Yii2, Mysql, Postgresql, MongoDB
+Full Stack Web Developer | Ruby on Rails | Laravel | Codeigniter | Yii2 | MySQL | PostgreSQL | MongoDB | AWS | HEROKU | DIGITALOCEAN
+
+👋 Hello! I'm Osama Ashfaq, a passionate Full Stack Web Developer with expertise in multiple technologies and frameworks. I have hands-on experience in building web applications using Ruby on Rails, Laravel, Codeigniter, and Yii2. My skill set includes front-end development with HTML, CSS, JavaScript, and various JavaScript libraries and frameworks.
+
+🔥 I thrive on solving complex problems and delivering high-quality, scalable solutions. My experience includes designing and implementing robust database systems using MySQL, PostgreSQL, and MongoDB, ensuring efficient data storage and retrieval for web applications.
+
+💼 Throughout my career, I have successfully delivered projects of varying sizes, collaborating with cross-functional teams to meet clients' requirements and business objectives. I am skilled in working with Agile methodologies, ensuring timely project delivery and effective communication.
+
+🌟 Continuously learning and exploring new technologies, I stay up-to-date with industry best practices and trends. I am passionate about writing clean, maintainable code and following software development principles to build scalable and efficient web applications.
+
+📫 Let's connect and collaborate on exciting projects! Feel free to reach out to me via email or on LinkedIn.
+
+📧 Email: osama.ashfaq19@outlook.com
+💼 LinkedIn: https://www.linkedin.com/in/osamadeveloper/
 
 
 ## 🌐 Socials:
